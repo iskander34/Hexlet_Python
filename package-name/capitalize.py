@@ -1,4 +1,3 @@
-#
 def capitalize(text):
     if text == '':
         return ''
